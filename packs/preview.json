@@ -1,0 +1,644 @@
+{
+    "id": "preview",
+    "name": "Preview Deck",
+    "cardCount": "25",
+    "releaseDate": "2025-03-01",
+    "cards": [
+        {
+            "id": "abnus_orzo",
+            "name": "Abnus Orzo",
+            "subtitle": "Tireless Investgator",
+            "unique": true,
+            "type": "Seeker",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/abnus-orzo/893f4e8c4d-1742323067/card.webp",
+            "faction": "The Collective",
+            "collectionIcons": [
+                "Shard"
+            ],
+            "text": ["(Reaction) After you complete a breach on a player’s Archives, exhaust this card and archive the top card of your Commons: Archive 1 card at random from that player’s Council."],
+            "actionLimit": 3,
+            "drawLimit": 5,
+            "shardLimit": 10,
+            "traits": [
+                "Enforcer"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Abnus Orzo"
+                }
+            }
+        },
+        {
+            "id": "auntie_ruth",
+            "name": "Auntie Ruth",
+            "subtitle": "Proprietor of the Hidden Tea House",
+            "unique": true,
+            "type": "Agent",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/auntie-ruth/8b7d9a9669-1742323067/card.webp",
+            "shardCost": 4,
+            "barrier": 3,
+            "presence": 2,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "faction": "Omniworks",
+            "text": ["Cipher – Engaged player loses (Action). (Reaction) After this card is forged, choose a player: They draw 3 cards."],
+            "traits": [
+                "Paragon"
+            ],
+            "illustrators": [
+                "Evan Simonet",
+                "Robert Brantseg"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Auntie Ruth"
+                }
+            }
+        },
+        {
+            "id": "barbican_gate",
+            "name": "Barbican Gate",
+            "type": "Obstacle",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/barbican-gate/29213dbc71-1742323067/card.webp",
+            "shardCost": 1,
+            "barrier": 1,
+            "presence": 4,
+            "faction": "The Collective",
+            "text": [
+                "(Confront): Engaged player may exhaust a forged card in their grid. If they do not, gain 2 Shard.",
+                "(Discover): Gain 1 Shard."
+            ],
+            "traits": [
+                "Location"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Barbican Gate"
+                }
+            }
+        },
+        {
+            "id": "calling_in_favors",
+            "name": "Calling in Favors",
+            "type": "Moment",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/calling-in-favors/09b03fa7c3-1742323067/card.webp",
+            "shardCost": 0,
+            "faction": "Omniworks",
+            "text": "(Action Action): Gain 4 Shard and draw 1 card.",
+            "traits": [
+                "Commerce",
+                "Influence"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Calling in Favors"
+                }
+            }
+        },
+        {
+            "id": "canal_network",
+            "name": "Canal Network",
+            "type": "Obstacle",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/canal-network/d6d3247d6d-1742323067/card.webp",
+            "shardCost": 3,
+            "barrier": 2,
+            "presence": 5,
+            "faction": "Omniworks",
+            "text": [
+                "(Confront): Shift an unforged card in engaged player’s grid.",
+                "(Discover) Exhaust your seeker: Shift a card in engaged player’s grid (forged or unforged)."
+            ],
+            "traits": [
+                "Location"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Canal Network"
+                }
+            }
+        },
+        {
+            "id": "capricious_informant",
+            "name": "Capricious Informant",
+            "type": "Source",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/capricious-informant/1b3548504d-1742323067/card.webp",
+            "faction": "The Collective",
+            "shardCost": 3,
+            "presence": 4,
+            "collectionIcons": ["Shard"],
+            "text": ["(Instant) Exhaust this card and look at the top 2 cards of your Commons: Add 1 of those to your Council and archive the other."],
+            "traits": [
+                "Persona"
+            ],
+            "illustrators": [
+                "Evan Simonet",
+                "Robert Brantseg"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Capricious Informant"
+                }
+            }
+        },
+        {
+            "id": "chairman_bo_pax",
+            "name": "Chairman Bo Pax",
+            "subtitle": "Heir to Pax Industries",
+            "unique": true,
+            "type": "Seeker",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/chairman-bo-pax/994b7b7439-1742323067/card.webp",
+            "faction": "Old Aidalon",
+            "collectionIcons": [
+                "Draw"
+            ],
+            "text": "(Action) If you have more cards in your front row than your rival, exhaust this card: They gain 1 Heat.",
+            "actionLimit": 3,
+            "drawLimit": 5,
+            "shardLimit": 10,
+            "traits": [
+                "Visionary"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Chairman Bo Pax"
+                }
+            }
+        },
+        {
+            "id": "disagreeable_inspector",
+            "name": "Disagreeable Inspector",
+            "type": "Source",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/disagreeable-inspector/f517f5afc4-1742323067/card.webp",
+            "faction": "Old Aidalon",
+            "shardCost": 1,
+            "presence": 2,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "text": "(Reaction) As you confront a card, exhaust this card: That card gets -2 Barrier until the confrontation ends.",
+            "traits": [
+                "Persona"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Disagreeable Inspector"
+                }
+            }
+        },
+        {
+            "id": "doctor_twilight",
+            "name": "Doctor Twilight",
+            "subtitle": "Dream Surgeon",
+            "unique": true,
+            "type": "Agent",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/doctor-twilight/b7695637c3-1742323067/card.webp",
+            "shardCost": 3,
+            "barrier": 3,
+            "presence": 3,
+            "collectionIcons": [
+                "Draw"
+            ],
+            "faction": "The Collective",
+            "text": "(Instant) Exhaust this card and exile 1 card from your Archives: Gain 3 Shard.",
+            "traits": [
+                "Visionary"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Doctor Twilight"
+                }
+            }
+        },
+        {
+            "id": "eye_enforcers",
+            "name": "Eye Enforcers",
+            "type": "Obstacle",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/eye-enforcers/81a5e854e8-1742323067/card.webp",
+            "shardCost": 4,
+            "barrier": 3,
+            "presence": 5,
+            "faction": "The Collective",
+            "text": [
+                "(Confront) Lose 1 Shard: Archive 1 card at random from engaged player’s Council.",
+                "(Discover) If this card is in your grid, archive this card: Archive 2 cards at random from engaged player’s Council."
+            ],
+            "traits": [
+                "Persona"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Eye Enforcers"
+                }
+            }
+        },
+        {
+            "id": "fun_run",
+            "name": "Fun Run",
+            "type": "Moment",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/fun-run/d6e3503c59-1742323067/card.webp",
+            "shardCost": 0,
+            "faction": "The Remnants",
+            "text": "(Reaction) After you complete a breach on a Commons: Gain 3 Shard.",
+            "traits": [
+                "Tactic"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Fun Run"
+                }
+            }
+        },
+        {
+            "id": "gargala_larga",
+            "name": "Gargala Larga",
+            "subtitle": "Imperator of Growth",
+            "unique": true,
+            "type": "Agent",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/gargala-larga/6218f6f2ef-1742323067/card.webp",
+            "shardCost": 3,
+            "barrier": 4,
+            "presence": 1,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "faction": "Old Aidalon",
+            "text": [
+                "Cipher – Engaged player exhausts their seeker.",
+                "(Instant) Exhaust this card: Unexhaust your seeker."
+            ],
+            "traits": [
+                "Enforcer"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Gargala Larga"
+                }
+            }
+        },
+        {
+            "id": "goldie_xin",
+            "name": "Goldie Xin",
+            "subtitle": "Tinkering Technician",
+            "unique": true,
+            "type": "Seeker",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/goldie-xin/8c167ef45a-1742323067/card.webp",
+            "faction": "Omniworks",
+            "collectionIcons": [
+                "Shard"
+            ],
+            "text": "(Action) If you have fewer Heat in your pool than your rival, exhaust this card: Gain 3 Shard.",
+            "actionLimit": 3,
+            "drawLimit": 5,
+            "shardLimit": 10,
+            "traits": [
+                "Paragon"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Goldie Xin"
+                }
+            }
+        },
+        {
+            "id": "infiltrate",
+            "name": "Infiltrate",
+            "type": "Moment",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/infiltrate/bd36f44a2f-1742323067/card.webp",
+            "shardCost": 1,
+            "faction": "Omniworks",
+            "text": "(Reaction) As you discover cards in a Council during a breach: Discover +2 cards.",
+            "traits": [
+                "Tactic",
+                "Subterfuge"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Infiltrate"
+                }
+            }
+        },
+        {
+            "id": "jayko_and_ace",
+            "name": "Jayko & Ace",
+            "subtitle": "Boisterous Troublemakers",
+            "unique": true,
+            "type": "Seeker",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/jayko-&-ace/26e743b47f-1742323067/card.webp",
+            "faction": "The Remnants",
+            "collectionIcons": [
+                "Draw"
+            ],
+            "text": "(Reaction) As you approach a district, exhaust this card and gain 1 Heat: Gain 2 Shard and draw 1 card.",
+            "actionLimit": 3,
+            "drawLimit": 5,
+            "shardLimit": 10,
+            "traits": [
+                "Renegade"
+            ],
+            "illustrators": [
+                "Andrew Navaro",
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Jayko & Ace"
+                }
+            }
+        },
+        {
+            "id": "kryzar_the_rat",
+            "name": "Kryzar the Rat",
+            "subtitle": "Navigator of the Cortex Maze",
+            "type": "Agent",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/kryzar-the-rat/58e2147cbe-1742323067/card.webp",
+            "shardCost": 2,
+            "barrier": 3,
+            "presence": 3,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "faction": "The Remnants",
+            "text": [
+                "(Reaction) As you approach a district, exhaust this card: Stage 1 card (you can stage agents, obstacles, and sources)."
+            ],
+            "traits": [
+                "Enforcer"
+            ],
+            "illustrators": [
+                "Joe Banner",
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Kryzar the Rat"
+                }
+            }
+        },
+        {
+            "id": "likely_a_trap",
+            "name": "Likely a Trap",
+            "type": "Moment",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/likely-a-trap/2425561f40-1742323067/card.webp",
+            "shardCost": 0,
+            "faction": "The Collective",
+            "text": ["(Reaction) After a player completes an encounter with an unforged card in your grid: They may discover that card. If they do not, archive the top 2 cards of their Commons."],
+            "traits": [
+                "Tactic",
+                "Subterfuge"
+            ],
+            "illustrators": [
+                "Joe Banner",
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Likely a Trap"
+                }
+            }
+        },
+        {
+            "id": "rory_and_bug",
+            "name": "Rory & Bug",
+            "subtitle": "“You Catch It, We Fetch It!”",
+            "unique": true,
+            "type": "Agent",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/rory-&-bug/0c388d6d9e-1742323067/card.webp",
+            "shardCost": 0,
+            "barrier": 3,
+            "presence": 2,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "faction": "Omniworks",
+            "text": [
+                "(Instant) Exhaust this card and lose 2 Shard: Shift this card."
+            ],
+            "traits": [
+                "Renegade"
+            ],
+            "illustrators": [
+                "Joe Banner",
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Rory & Bug"
+                }
+            }
+        },
+        {
+            "id": "sergeant_cole",
+            "name": "Sergeant Cole",
+            "subtitle": "Precinct 204, 3rd Level",
+            "unique": true,
+            "type": "Agent",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/sergeant-cole/e7e63e5e51-1742323067/card.webp",
+            "shardCost": 1,
+            "barrier": 3,
+            "presence": 1,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "faction": "The Collective",
+            "text": [
+                "Cipher – Engaged player exhausts a card in their Archives path.",
+                "(Reaction) After you complete a breach on a player’s Archives, exhaust this card: Archive the top 2 cards of their Commons."
+            ],
+            "traits": [
+                "Paragon"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Sergeant Cole"
+                }
+            }
+        },
+        {
+            "id": "shardwinner",
+            "name": "Shardwinner",
+            "type": "Source",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/shardwinner/c289dddf15-1742323067/card.webp",
+            "faction": "Old Aidalon",
+            "shardCost": 3,
+            "presence": 2,
+            "text": [
+                "While this card is in your Council path: It gets +Shard collection icon.",
+                "While this card is in your Commons path: It gets +4 Presence."
+            ],
+            "traits": [
+                "Persona"
+            ],
+            "illustrators": [
+                "Joe Banner",
+                "Robert Brantseg"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Shardwinner"
+                }
+            }
+        },
+        {
+            "id": "smooth_handoff",
+            "name": "Smooth Handoff",
+            "type": "Moment",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/smooth-handoff/c75d4a7137-1742323067/card.webp",
+            "shardCost": 0,
+            "faction": "Omniworks",
+            "text": ["(Action) Choose a player: They lose 1 Heat and draw 1 card."],
+            "traits": [
+                "Subterfuge"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Smooth Handoff"
+                }
+            }
+        },
+        {
+            "id": "tele-mail_cluster",
+            "name": "Tele-Mail Cluster",
+            "type": "Source",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/tele-mail-cluster/443bd12981-1742323067/card.webp",
+            "faction": "Omniworks",
+            "shardCost": 2,
+            "presence": 4,
+            "collectionIcons": [
+                "Draw"
+            ],
+            "text": [
+                "(Reaction) After this card is forged: Stage 1 card (you can stage agents, sources, and obstacles)."
+            ],
+            "traits": [
+                "Contraption"
+            ],
+            "illustrators": [
+                "Robert Brantseg"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Tele-Mail Cluster"
+                }
+            }
+        },
+        {
+            "id": "the_dragons_hoard",
+            "name": "The Dragon’s Hoard",
+            "type": "Source",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/the-dragons-hoard/0d951f1f5d-1742323067/card.webp",
+            "faction": "The Remnants",
+            "shardCost": 2,
+            "presence": 3,
+            "collectionIcons": [
+                "Shard"
+            ],
+            "text": [
+                "While this card is forged: Each adjacent card gets +1 Presence (forged or unforged)."
+            ],
+            "traits": [
+                "Location"
+            ],
+            "illustrators": [
+                 "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "The Dragon’s Hoard"
+                }
+            }
+        },
+        {
+            "id": "transit_station",
+            "name": "Transit Station",
+            "type": "Obstacle",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/transit-station/1463b10c45-1742323067/card.webp",
+            "shardCost": 1,
+            "barrier": 1,
+            "presence": 1,
+            "faction": "Old Aidalon",
+            "text": [
+                "While this card is in your front row: It gets +4 Presence.",
+                "While this card is in your middle row: It gets +2 Barrier."
+            ],
+            "traits": [
+                "Location"
+            ],
+            "illustrators": [
+                "Joe Banner",
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Transit Station"
+                }
+            }
+        },
+        {
+            "id": "waterway_ferry",
+            "name": "Waterway Ferry",
+            "type": "Obstacle",
+            "image": "https://decksmith.app/media/pages/hubworldaidalon/cards/waterway-ferry/bfabee85b6-1742323067/card.webp",
+            "shardCost": 1,
+            "barrier": 2,
+            "presence": 3,
+            "faction": "Omniworks",
+            "text": [
+                "(Reaction) After this card is forged: Shift it.",
+            ],
+            "traits": [
+                "Contraption"
+            ],
+            "illustrators": [
+                "Evan Simonet"
+            ],
+            "locale": {
+                "en": {
+                    "name": "Waterway Ferry"
+                }
+            }
+        }
+    ]
+}
